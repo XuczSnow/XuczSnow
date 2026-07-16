@@ -2,7 +2,7 @@
 
 🚀 Engineer building systems from **Silicon → Embedded → Robotics → AI → Applications**
 
-- 🌊 M.Eng. in Engineering @ Ocean University of China
+- 🌊 M.Eng. in Control Engineering @ Ocean University of China
 - 🔬 Digital IC Design
 - 🤖 Underwater Robotics & Autonomous Systems
 - 🧠 AI Learner | Computer Vision Explorer
